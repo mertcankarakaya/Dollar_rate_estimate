@@ -18,7 +18,7 @@ Then I applied the best degree and I looked to results.
 
 ## The Results
 The result, Polynomial Regression degree that giving the lowest MSE rate value was 4th degrees. 
-Then I tried to 4th degrees in Polynomial Regression and it took the result.
+Then I tried to 4th degrees in Polynomial Regression and i took the result.
 After I looked to difference between real value and estimated value. It gave a pretty lowest value.
 
 ![The result2](image/results.png)
