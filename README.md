@@ -2,7 +2,7 @@
 
 ## Goals of Project
 
-There are daily values of dollar money rate of Turkey between half June of 2019 year and 1982 year in "37.year.dollar.rate.for.Turkey" csv file. 
+There are daily values of dollar rate of Turkey between half June of 2019 year and 1982 year in **"37.year.dollar.rate.for.Turkey"** csv file. 
 I am trying to estimate to new dollar rate that using Machine Learning algorithms in this work. 
 
 ## Doing of Project
